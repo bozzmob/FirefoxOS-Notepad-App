@@ -1,0 +1,13 @@
+{
+  "name": "Easy Notepad",
+  "description": "Notepad",
+  "launch_path": "/notepad.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Satvik Jagannath",
+    "url": "http://jusstech.com"
+  },
+  "default_locale": "en"
+}
